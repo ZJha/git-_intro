@@ -1,2 +1,2 @@
 This is a greeting message. 
-Hello evvryone.
+Hello everyone.
